@@ -12,8 +12,6 @@ I’m a professor with over 25 years of experience in higher education, focused 
 - 🚀 **Entrepreneurship Development** among students and innovators
 - 🎯 **Education Management** — making learning engaging, especially for slow learners
 
-I’m passionate about bridging theory with real-world practice, especially in clean energy and engineering education.
-
 ---
 
 ## 🛠️ Current Interests
@@ -25,16 +23,14 @@ I’m passionate about bridging theory with real-world practice, especially in c
 
 ---
 
-## 📌 Featured Projects (Coming Soon)
+## 📌 Projects & Activities
 
-- `SolarThermal-DemoModels` – Simulations and visuals for teaching solar thermal concepts  
-- `MechanicsMadeSimple` – Visual aids and worksheets for freshers in Engineering Mechanics  
-- `StudentStartupIncubator` – Frameworks and resources to support entrepreneurial learning  
+- Working on simulations and visual content for Engineering Mechanics and Energy Systems  
+- Supporting outcome-based education and innovation-driven pedagogy  
+- Exploring solar-based tech for institutional energy optimization
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let’s Connect
 
-I’m open to academic collaborations, clean energy projects, and educational innovations.
-
-📬 Reach out via [LinkedIn](https://www.linkedin.com) or connect on GitHub!
+📫 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/karthi21c) | [Website](https://karthi21c.github.io)
